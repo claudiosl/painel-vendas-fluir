@@ -1,0 +1,5 @@
+{
+  "name": "painel de vendas da fluir",
+  "description": "Painel de controle de vendas completo para monitoramento de SDRs, Closers e KPIs financeiros. Permite inserção manual e análise de conversão de funil.",
+  "requestFramePermissions": []
+}
